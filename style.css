@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+p, h1, h3{
+  margin: 0;
+}
+.card{
+  background-color: red;
+  color: white; 
+  font-family: Lato;
+} 
